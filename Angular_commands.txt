@@ -1,0 +1,6 @@
+COMMANDS:
+
+ng new hello-world -----> Start new angular project
+ng serve 	    ----> Run project
+ng g c newcomponent ----> generates new component
+ng g s email 	    ----> generating new service
